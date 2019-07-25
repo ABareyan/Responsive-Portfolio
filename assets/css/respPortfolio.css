@@ -1,4 +1,4 @@
-@media screen and (min-width: 767px) and (max-width: 980px) {
+    @media screen and (min-width: 767px) and (max-width: 980px) {
     #left {
         width: 40%;
     }
@@ -33,7 +33,7 @@
     }
     #back p {
         width: 600px;
-        font-size: 18px;
+        font-size: 16px;
         margin: 20px;
         margin-left: 10px;
         text-align: justify;
@@ -43,9 +43,12 @@
         margin: 5px;
     }
     .box .text {
-        font-size: 18px;
+        font-size: 16px;
         top: 75%;
         width: 95%;
+    }
+    .box a {
+        font-size: 16px;
     }
 }
 
@@ -84,7 +87,7 @@
         margin: 5px;
     }
     .box .text {
-        font-size: 18px;
+        font-size: 16px;
         top: 75%;
         width: 95%;
     }
@@ -129,11 +132,13 @@
         margin: 5px;
     }
     .box .text {
-        font-size: 50px;
+        font-size: 40px;
         top: 80%;
         width: 100%;
         height: 13%;
         margin-left: 5px;
         padding: 25px;
     }
-}
+    .box a {
+        font-size: 40px;
+    }

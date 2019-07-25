@@ -199,6 +199,16 @@ article img {
     /* Make the width of box same as image */
 }
 
+.box a {
+    left: 0;
+    color: #fff;
+}
+
+.box a:hover {
+    color: #666;
+    ;
+}
+
 .box .text {
     position: absolute;
     z-index: 5;
